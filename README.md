@@ -1,5 +1,5 @@
 # Hi there
-<img align='right' src='https://media.giphy.com/media/1ZDHKraip2SFwck4kj/giphy.gif' width='230' />
+<img align='left' src='https://media.giphy.com/media/dAd0GeExZMimK922GP/giphy.gif' width='230' />
 
 I'm **Abdi MS** a.k.a. @abdiemes
 <!--
