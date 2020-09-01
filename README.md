@@ -1,5 +1,5 @@
-# Hi there <img src='https://media.giphy.com/media/XygjTu9F7IRj3lijJ7/giphy.gif' width='50' />
-
+# Hi there
+<img align='right' src='https://media.giphy.com/media/1ZDHKraip2SFwck4kj/giphy.gif' width='150' />
 I'm **Abdi MS** a.k.a. @abdiemes
 <!--
 **abdiemes/abdiemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
