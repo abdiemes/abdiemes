@@ -1,4 +1,4 @@
-# Hi there <img src='https://giphy.com/gifs/ozjhQ61WOfmb9FPbpd/html5' width='20' />
+# Hi there <img src='https://media.giphy.com/media/ozjhQ61WOfmb9FPbpd/giphy.gif' width='50' />
 
 I'm **Abdi MS** a.k.a. @abdiemes
 <!--
