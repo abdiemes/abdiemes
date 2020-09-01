@@ -1,4 +1,4 @@
-# Hi there
+# Hi there 👋🏼
 I'm **Abdi MS** a.k.a. @abdiemes
 <img align='center' src='https://media.giphy.com/media/2ZYQuPAP1kD9Fh0slT/giphy.gif' width='230' />
 ###### sticker by <a href='https://giphy.com/si_abi' target='_blank'>Si Abi</a>
