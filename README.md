@@ -1,6 +1,7 @@
 # Hi there
 I'm **Abdi MS** a.k.a. @abdiemes
 <img align='center' src='https://media.giphy.com/media/2ZYQuPAP1kD9Fh0slT/giphy.gif' width='230' />
+sticker by [Si Abi] (https://giphy.com/si_abi)
 <!--
 **abdiemes/abdiemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
